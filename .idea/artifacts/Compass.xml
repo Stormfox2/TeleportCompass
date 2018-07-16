@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Compass">
+    <output-path>$PROJECT_DIR$/../../Bedwars/plugins</output-path>
+    <root id="archive" name="Compass.jar">
+      <element id="module-output" name="Compass" />
+    </root>
+  </artifact>
+</component>
