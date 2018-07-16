@@ -1,0 +1,78 @@
+config:
+  enabled: true
+  name: Compass
+  slot: 1
+  material: COMPASS
+  size: 54
+item1:
+  enabled: true
+  name: $cNoch nicht verfügbar!
+  material: BARRIER
+  slot: 1
+  server: Lobby-1
+  lore:
+  - Noch nicht verfügbar!
+item2:
+  enabled: true
+  name: Noch nicht verfügbar!
+  material: BARRIER
+  slot: 2
+  server: Lobby-1
+  lore:
+  - Noch nicht verfügbar!
+item3:
+  enabled: true
+  name: Noch nicht verfügbar!
+  material: BARRIER
+  slot: 3
+  server: Lobby-1
+  lore:
+  - Noch nicht verfügbar!
+item4:
+  enabled: true
+  name: Noch nicht verfügbar!
+  material: BARRIER
+  slot: 4
+  server: Lobby-1
+  lore:
+  - Noch nicht verfügbar!
+item5:
+  enabled: true
+  name: Noch nicht verfügbar!
+  material: BARRIER
+  slot: 5
+  server: Lobby-1
+  lore:
+  - Noch nicht verfügbar!
+item6:
+  enabled: true
+  name: Noch nicht verfügbar!
+  material: BARRIER
+  slot: 6
+  server: Lobby-1
+  lore:
+  - Noch nicht verfügbar!
+item7:
+  enabled: true
+  name: Noch nicht verfügbar!
+  material: BARRIER
+  slot: 7
+  server: Lobby-1
+  lore:
+  - Noch nicht verfügbar!
+item8:
+  enabled: true
+  name: Noch nicht verfügbar!
+  material: BARRIER
+  slot: 8
+  server: Lobby-1
+  lore:
+  - Noch nicht verfügbar!
+item9:
+  enabled: true
+  name: Noch nicht verfügbar!
+  material: BARRIER
+  slot: 9
+  server: Lobby-1
+  lore:
+  - Noch nicht verfügbar!
